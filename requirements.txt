@@ -1,0 +1,6 @@
+PyPDF2
+pdfplumber
+streamlit
+groq
+pymongo
+graphviz
